@@ -11,6 +11,7 @@ I've seen alot of them around so i decided to create a simple `fake` BTC stealer
 
 ## Features
 
+- Generated address can either start with 1, 3 or bc1
 - Able to chance the chance of "finding" an address
 - Able to choose thread amount to maximize speed!
 - Creates `fake` private key and balance for the address *(able to change balance margin)*
