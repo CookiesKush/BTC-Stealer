@@ -7,6 +7,8 @@
 </p>
 
 ## About 
+**THIS IS A TEMPLATE U MAY DO WHATEVER U WANT WITH IT** `(go to town skids)`
+
 I've seen alot of them around so i decided to create a simple `fake` BTC stealer to make the user think they gotten a random private key for an address
 
 ## Features
